@@ -1,0 +1,9 @@
+{
+    "name": "my-es-module-project",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "lab7.js",
+    "scripts": {
+       "start": "node lab7.js"
+    }
+   }
